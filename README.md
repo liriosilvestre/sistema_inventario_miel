@@ -1,4 +1,4 @@
-# 🍯 Sistema de Control de Inventario y Finanzas: Miel de Abeja
+# 🍯 Sistema de Control de Inventario: Miel de Abeja
 
 Aplicación interactiva desarrollada en **Python** para gestionar el ciclo completo de comercialización de miel de abeja: desde la adquisición de materia prima a granel, pasando por el envasado en presentaciones comerciales, hasta el control de ventas, cálculo de rentabilidad y emisión de alertas preventivas.
 
